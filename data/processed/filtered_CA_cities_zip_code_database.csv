@@ -1,0 +1,393 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population
+90001,STANDARD,0,Los Angeles,"Firestone Park, Firestone Pk",,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,33.97,-118.24,50130
+90002,STANDARD,0,Los Angeles,Watts,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.94,-118.24,45910
+90003,STANDARD,0,Los Angeles,,Broadway Manchester,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,33.96,-118.27,62560
+90004,STANDARD,0,Los Angeles,Oakwood,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.07,-118.31,46770
+90005,STANDARD,0,Los Angeles,Sanford,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.06,-118.31,28000
+90006,STANDARD,0,Los Angeles,,Pico Heights,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.05,-118.29,43570
+90007,STANDARD,0,Los Angeles,Dockweiler,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.02,-118.28,20840
+90008,STANDARD,0,Los Angeles,"Baldwin Hills, Leimert Park, View Park",Crenshaw,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,34.01,-118.35,25300
+90009,PO BOX,0,Los Angeles,"Los Angeles AFB, Los Angls AFB",Los Angeles International,CA,Los Angeles County,America/Los_Angeles,213,,US,33.94,-118.38,1926
+90010,STANDARD,0,Los Angeles,,Sanford,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.06,-118.3,4270
+90011,STANDARD,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.0,-118.25,88690
+90012,STANDARD,0,Los Angeles,,Federal,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.06,-118.24,18240
+90013,STANDARD,0,Los Angeles,,Federal,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.04,-118.24,6420
+90014,STANDARD,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.04,-118.25,4760
+90015,STANDARD,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.03,-118.26,17390
+90016,STANDARD,0,Los Angeles,,West Adams,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,34.02,-118.35,39750
+90017,STANDARD,0,Los Angeles,,Foy,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.05,-118.26,17960
+90018,STANDARD,0,Los Angeles,,"Cimarron, Dockweiler",CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.02,-118.31,40520
+90019,STANDARD,0,Los Angeles,,Rimpau,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.04,-118.34,49140
+90020,STANDARD,0,Los Angeles,,Sanford,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.07,-118.31,30280
+90021,STANDARD,0,Los Angeles,,Market,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.03,-118.24,2190
+90022,STANDARD,0,Los Angeles,"Commerce, E Los Angeles, East Los Angeles",,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.02,-118.15,57700
+90023,STANDARD,0,Los Angeles,Commerce,Lugo,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.02,-118.2,39530
+90024,STANDARD,0,Los Angeles,,Village,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.06,-118.43,21990
+90025,STANDARD,0,Los Angeles,"W Los Angeles, West Los Angeles",Wla,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.04,-118.44,37790
+90026,STANDARD,0,Los Angeles,,"Echo Park, Edendale, Silver Lake",CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.07,-118.26,48880
+90027,STANDARD,0,Los Angeles,,"Hollywood, Los Feliz",CA,Los Angeles County,America/Los_Angeles,"213, 323, 747, 818",,US,34.12,-118.28,34350
+90028,STANDARD,0,Los Angeles,Hollywood,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.1,-118.32,21950
+90029,STANDARD,0,Los Angeles,,Vermont,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.09,-118.29,27170
+90030,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.23,276
+90031,STANDARD,0,Los Angeles,"Lincoln Heights, Lincoln Hts",,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.09,-118.21,30220
+90032,STANDARD,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626",,US,34.08,-118.17,36560
+90033,STANDARD,0,Los Angeles,,Boyle Heights,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.04,-118.21,36570
+90034,STANDARD,0,Los Angeles,,Palms,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,34.03,-118.4,45780
+90035,STANDARD,0,Los Angeles,,Preuss,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,34.05,-118.38,23520
+90036,STANDARD,0,Los Angeles,,"Farmer Market, Miracle Mile, Wilshire La Brea",CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.06,-118.35,30570
+90037,STANDARD,0,Los Angeles,,Green,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.0,-118.28,51560
+90038,STANDARD,0,Los Angeles,"W Hollywood, West Hollywood","Hollywood, Wilcox",CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.09,-118.33,21030
+90039,STANDARD,0,Los Angeles,,Griffith,CA,Los Angeles County,America/Los_Angeles,"213, 323, 747, 818",,US,34.11,-118.26,23990
+90040,STANDARD,0,Los Angeles,"Commerce, Cty Of Cmmrce",,CA,Los Angeles County,America/Los_Angeles,"213, 323, 562",,US,33.99,-118.14,11420
+90041,STANDARD,0,Los Angeles,Eagle Rock,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626, 747, 818",,US,34.13,-118.2,22350
+90042,STANDARD,0,Los Angeles,Highland Park,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626",,US,34.11,-118.19,47330
+90043,STANDARD,0,Los Angeles,"View Park, Windsor Hills",La Tijera,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.98,-118.33,38050
+90044,STANDARD,0,Los Angeles,,"August F Haw, Hancock",CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,33.95,-118.29,77500
+90045,STANDARD,0,Los Angeles,Westchester,"Bradley International, Playa Vista",CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.95,-118.4,31950
+90046,STANDARD,0,Los Angeles,"W Hollywood, West Hollywood",,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,34.11,-118.36,35190
+90047,STANDARD,0,Los Angeles,,Wagner,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,33.95,-118.31,43550
+90048,STANDARD,0,Los Angeles,"W Hollywood, West Hollywood","Bicentennial, Briggs",CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,34.07,-118.37,17160
+90049,STANDARD,0,Los Angeles,,Barrington,CA,Los Angeles County,America/Los_Angeles,"310, 424, 747, 818",,US,34.08,-118.49,28770
+90050,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.12,-118.2,360
+90051,PO BOX,0,Los Angeles,,August F Haw,CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.24,805
+90052,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,33.98,-118.26,0
+90053,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.05,-118.23,502
+90054,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.23,276
+90055,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.04,-118.25,328
+90056,STANDARD,0,Los Angeles,"Baldwin Hills, Windsor Hills",Crenshaw,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.99,-118.37,7520
+90057,STANDARD,0,Los Angeles,,Flint,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.06,-118.27,29970
+90058,STANDARD,0,Los Angeles,Vernon,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.0,-118.21,3020
+90059,STANDARD,0,Los Angeles,,"August F Haw, Greenmead",CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.93,-118.25,37960
+90060,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,33.99,-118.42,400
+90061,STANDARD,0,Los Angeles,,"August F Haw, South",CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.92,-118.27,24790
+90062,STANDARD,0,Los Angeles,,Westvern,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.0,-118.31,28000
+90063,STANDARD,0,Los Angeles,Hazard,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.04,-118.18,44440
+90064,STANDARD,0,Los Angeles,Rancho Park,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.03,-118.43,25040
+90065,STANDARD,0,Los Angeles,"Glassell, Glassell Park",,CA,Los Angeles County,America/Los_Angeles,"213, 323, 747, 818",,US,34.1,-118.22,38230
+90066,STANDARD,0,Los Angeles,,"Culver Cty, Mar Vista",CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.0,-118.43,45960
+90067,STANDARD,0,Los Angeles,Century City,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.06,-118.41,5890
+90068,STANDARD,0,Los Angeles,Hollywood,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 747, 818",,US,34.13,-118.33,16870
+90069,STANDARD,0,West Hollywood,"Los Angeles, W Hollywood",,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,34.09,-118.38,16550
+90070,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.31,152
+90071,STANDARD,0,Los Angeles,,"Arco, Arco Plaza",CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.05,-118.26,2564
+90072,PO BOX,0,Los Angeles,,Santa Western,CA,Los Angeles County,America/Los_Angeles,213,,US,34.09,-118.3,185
+90073,PO BOX,0,Los Angeles,"Veterans Adm, Veterans Admin, Veterans Administration, Veterans Admn",,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.05,-118.45,127
+90074,UNIQUE,0,Los Angeles,,Bank Of America,CA,Los Angeles County,America/Los_Angeles,213,,US,34.05,-118.26,0
+90075,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.31,500
+90076,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.31,531
+90077,STANDARD,0,Los Angeles,,Barrington,CA,Los Angeles County,America/Los_Angeles,"310, 424, 747, 818",,US,34.1,-118.45,7170
+90078,PO BOX,0,Los Angeles,Hollywood,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.1,-118.32,1153
+90079,STANDARD,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.04,-118.26,119
+90080,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,33.95,-118.39,0
+90081,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.05,-118.26,337
+90082,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.0,-118.27,255
+90083,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,33.95,-118.39,421
+90084,UNIQUE,0,Los Angeles,,Wells Fargo,CA,Los Angeles County,America/Los_Angeles,213,,US,34.05,-118.26,0
+90086,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.23,693
+90087,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.23,418
+90088,UNIQUE,0,Los Angeles,,Wells Fargo,CA,Los Angeles County,America/Los_Angeles,213,,US,34.05,-118.26,0
+90089,UNIQUE,0,Los Angeles,,University Of Southern Ca,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.02,-118.29,185
+90091,PO BOX,0,Los Angeles,"Commerce, Cty Of Cmmrce",,CA,Los Angeles County,America/Los_Angeles,213,,US,33.99,-118.15,255
+90093,PO BOX,0,Los Angeles,,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.09,-118.33,485
+90095,UNIQUE,0,Los Angeles,,Uc Los Angeles,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.07,-118.44,82
+90096,UNIQUE,0,Los Angeles,,Shared Firm Zip Code,CA,Los Angeles County,America/Los_Angeles,213,,US,33.96,-118.17,0
+90099,UNIQUE,0,Los Angeles,,"Bar Code Term Annex, Los Angeles Brm",CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.23,0
+90101,STANDARD,1,Los Angeles,,"Bulk Mail Center, La",CA,Los Angeles County,America/Los_Angeles,213,,US,33.99,-118.16,0
+90102,UNIQUE,1,Los Angeles,Brylane,,CA,Los Angeles County,America/Los_Angeles,213,,US,34.01,-118.19,0
+90103,UNIQUE,1,Los Angeles,,Rodale Press,CA,Los Angeles County,America/Los_Angeles,213,,US,33.99,-118.16,0
+90134,STANDARD,0,Los Angeles,,Goat,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,34.05,-118.25,0
+90189,UNIQUE,0,Los Angeles,,"Citibank, First Data Remitco",CA,Los Angeles County,America/Los_Angeles,213,,US,34.06,-118.25,0
+90201,STANDARD,0,Bell Gardens,"Bell, Cudahy",,CA,Los Angeles County,America/Los_Angeles,"213, 323, 562",,US,33.97,-118.15,85900
+90202,PO BOX,0,Bell,Bell Gardens,,CA,Los Angeles County,America/Los_Angeles,323,,US,33.96,-118.15,909
+90209,PO BOX,0,Beverly Hills,,,CA,Los Angeles County,America/Los_Angeles,310,,US,34.07,-118.39,932
+90210,STANDARD,0,Beverly Hills,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424, 747, 818",,US,34.09,-118.41,15580
+90211,STANDARD,0,Beverly Hills,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,34.06,-118.38,9330
+90212,STANDARD,0,Beverly Hills,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.06,-118.4,11690
+90213,PO BOX,0,Beverly Hills,,,CA,Los Angeles County,America/Los_Angeles,310,,US,34.05,-118.4,998
+90220,STANDARD,0,Compton,"Crystal City, Rancho Dominguez, Rncho Domingz",,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.87,-118.24,46390
+90221,STANDARD,0,Compton,"E Rncho Dmngz, East Rancho Dominguez",,CA,Los Angeles County,America/Los_Angeles,"310, 424, 562",,US,33.87,-118.21,48750
+90222,STANDARD,0,Compton,Rosewood,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.91,-118.23,28500
+90223,PO BOX,0,Compton,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.89,-118.22,432
+90224,PO BOX,0,Compton,"Rancho Dominguez, Rncho Domingz",,CA,Los Angeles County,America/Los_Angeles,310,,US,33.87,-118.26,1238
+90230,STANDARD,0,Culver City,Los Angeles,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.99,-118.39,28310
+90231,PO BOX,0,Culver City,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.99,-118.39,1009
+90232,STANDARD,0,Culver City,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,34.02,-118.39,14440
+90233,PO BOX,1,Culver City,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.98,-118.38,0
+90239,PO BOX,0,Downey,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.93,-118.11,695
+90240,STANDARD,0,Downey,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.95,-118.12,24370
+90241,STANDARD,0,Downey,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.94,-118.13,40100
+90242,STANDARD,0,Downey,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.92,-118.14,38580
+90245,STANDARD,0,El Segundo,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.91,-118.4,16970
+90247,STANDARD,0,Gardena,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.89,-118.29,42990
+90248,STANDARD,0,Gardena,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.88,-118.28,10270
+90249,STANDARD,0,Gardena,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.89,-118.31,24870
+90250,STANDARD,0,Hawthorne,"Holly Park, Hollyglen",,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.91,-118.34,84150
+90251,PO BOX,0,Hawthorne,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.91,-118.36,1571
+90254,STANDARD,0,Hermosa Beach,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.86,-118.39,16960
+90255,STANDARD,0,Huntington Park,"Huntington Pk, Walnut Park",,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,33.97,-118.21,64320
+90260,STANDARD,0,Lawndale,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.88,-118.35,29800
+90261,STANDARD,0,Lawndale,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.89,-118.37,0
+90262,STANDARD,0,Lynwood,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424, 562",,US,33.92,-118.2,60710
+90263,UNIQUE,0,Malibu,,Pepperdine University,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.04,-118.71,200
+90264,PO BOX,0,Malibu,,,CA,Los Angeles County,America/Los_Angeles,310,,US,34.04,-118.77,524
+90265,STANDARD,0,Malibu,,,CA,Los Angeles County,America/Los_Angeles,"310, 424, 747, 805, 818, 820",,US,34.06,-118.81,10560
+90266,STANDARD,0,Manhattan Beach,Manhattan Bch,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.88,-118.4,32240
+90267,PO BOX,0,Manhattan Beach,Manhattan Bch,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.87,-118.39,918
+90270,STANDARD,0,Maywood,Bell Gardens,,CA,Los Angeles County,America/Los_Angeles,"213, 323",,US,33.99,-118.19,22960
+90275,STANDARD,0,Rancho Palos Verdes,"Palos Verdes Estates, Palos Verdes Peninsula, Pls Vrds Est, Pls Vrds Pnsl, Rch Palos Vrd, Rllng Hls Est, Rolling Hills Estates",,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.75,-118.31,38850
+90277,STANDARD,0,Redondo Beach,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.83,-118.38,32410
+90278,STANDARD,0,Redondo Beach,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.87,-118.37,38320
+90280,STANDARD,0,South Gate,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424, 562",,US,33.94,-118.2,85800
+90301,STANDARD,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.95,-118.36,30780
+90302,STANDARD,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.97,-118.35,24170
+90303,STANDARD,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.93,-118.33,21970
+90304,STANDARD,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.94,-118.36,23540
+90305,STANDARD,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,"213, 310, 323, 424",,US,33.95,-118.33,12580
+90306,PO BOX,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.95,-118.35,226
+90307,PO BOX,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.95,-118.37,237
+90308,PO BOX,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.95,-118.35,529
+90309,PO BOX,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.97,-118.35,323
+90310,PO BOX,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.93,-118.32,267
+90311,STANDARD,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,"310, 424, 323",,US,33.95,-118.35,0
+90312,PO BOX,0,Inglewood,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.96,-118.35,0
+90313,UNIQUE,1,Inglewood,General Telephone,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.96,-118.35,0
+90397,UNIQUE,1,Inglewood,Shared Firm Zip Code,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.96,-118.35,0
+90398,UNIQUE,1,Inglewood,,Electronic Data Systems Inc,CA,Los Angeles County,America/Los_Angeles,310,,US,33.96,-118.35,0
+90401,STANDARD,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.01,-118.49,6270
+90402,STANDARD,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.03,-118.5,9080
+90403,STANDARD,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.03,-118.49,20010
+90404,STANDARD,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.02,-118.47,16720
+90405,STANDARD,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,34.01,-118.46,22700
+90406,PO BOX,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,310,,US,34.01,-118.49,1168
+90407,PO BOX,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,310,,US,34.01,-118.49,0
+90408,PO BOX,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,310,,US,34.02,-118.48,292
+90409,PO BOX,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,310,,US,34.0,-118.48,254
+90410,PO BOX,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,310,,US,34.01,-118.46,0
+90411,PO BOX,0,Santa Monica,,,CA,Los Angeles County,America/Los_Angeles,310,,US,34.01,-118.46,518
+90501,STANDARD,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.83,-118.31,39050
+90502,STANDARD,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.83,-118.29,16440
+90503,STANDARD,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.84,-118.35,40240
+90504,STANDARD,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.86,-118.33,30060
+90505,STANDARD,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.8,-118.35,33900
+90506,STANDARD,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.88,-118.33,0
+90507,PO BOX,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.83,-118.31,116
+90508,PO BOX,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.83,-118.31,233
+90509,PO BOX,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.84,-118.32,0
+90510,PO BOX,0,Torrance,,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.82,-118.32,882
+90601,STANDARD,0,Whittier,"City Industry, City Of Industry, Pico Rivera",,CA,Los Angeles County,America/Los_Angeles,"562, 626",,US,34.0,-118.03,28840
+90602,STANDARD,0,Whittier,,,CA,Los Angeles County,America/Los_Angeles,"562, 626",,US,33.97,-118.01,22170
+90603,STANDARD,0,Whittier,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.94,-117.99,19650
+90604,STANDARD,0,Whittier,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.93,-118.0,37090
+90605,STANDARD,0,Whittier,,,CA,Los Angeles County,America/Los_Angeles,"562, 626",,US,33.95,-118.02,37930
+90606,STANDARD,0,Whittier,Los Nietos,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.98,-118.06,29280
+90607,PO BOX,0,Whittier,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.96,-118.02,719
+90608,PO BOX,0,Whittier,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.97,-118.02,520
+90609,PO BOX,0,Whittier,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.97,-118.03,465
+90610,PO BOX,0,Whittier,Los Nietos,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.96,-118.07,233
+90612,UNIQUE,1,Whittier,,Whittier Asb,CA,Los Angeles County,America/Los_Angeles,562,,US,33.96,-118.02,0
+90637,PO BOX,0,La Mirada,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.89,-118.0,866
+90638,STANDARD,0,La Mirada,"Lamirada, Mirada",,CA,Los Angeles County,America/Los_Angeles,"562, 657, 714",,US,33.9,-118.0,42320
+90639,UNIQUE,0,La Mirada,,Biola University,CA,Los Angeles County,America/Los_Angeles,"562, 657, 714",,US,33.91,-118.01,191
+90640,STANDARD,0,Montebello,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 562, 626",,US,34.02,-118.11,55600
+90650,STANDARD,0,Norwalk,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.9,-118.07,94120
+90651,PO BOX,0,Norwalk,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.9,-118.07,1231
+90652,PO BOX,0,Norwalk,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.91,-118.07,291
+90659,UNIQUE,1,Norwalk,,Mw,CA,Los Angeles County,America/Los_Angeles,562,,US,33.9,-118.07,0
+90660,STANDARD,0,Pico Rivera,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 562, 626",,US,33.99,-118.09,57030
+90661,PO BOX,0,Pico Rivera,,,CA,Los Angeles County,America/Los_Angeles,562,,US,34.0,-118.08,179
+90662,PO BOX,0,Pico Rivera,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.96,-118.09,235
+90670,STANDARD,0,Santa Fe Springs,Santa Fe Spgs,,CA,Los Angeles County,America/Los_Angeles,"562, 657, 714",,US,33.92,-118.06,15580
+90671,PO BOX,0,Santa Fe Springs,Santa Fe Spgs,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.93,-118.06,0
+90701,STANDARD,0,Artesia,Cerritos,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.86,-118.08,14770
+90702,PO BOX,0,Artesia,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.86,-118.08,582
+90703,STANDARD,0,Cerritos,Artesia,,CA,Los Angeles County,America/Los_Angeles,"562, 657, 714",,US,33.86,-118.05,47740
+90704,PO BOX,0,Avalon,,"Catalina, Santa Catalina",CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.38,-118.45,3694
+90706,STANDARD,0,Bellflower,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.88,-118.13,69470
+90707,PO BOX,0,Bellflower,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.88,-118.12,1557
+90711,PO BOX,0,Lakewood,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.84,-118.14,571
+90712,STANDARD,0,Lakewood,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.85,-118.15,30080
+90713,STANDARD,0,Lakewood,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.85,-118.11,26860
+90714,PO BOX,0,Lakewood,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.85,-118.13,789
+90715,STANDARD,0,Lakewood,,,CA,Los Angeles County,America/Los_Angeles,"562, 657, 714",,US,33.84,-118.07,18960
+90716,STANDARD,0,Hawaiian Gardens,"Hawaiian Gdns, Lakewood",,CA,Los Angeles County,America/Los_Angeles,"562, 657, 714",,US,33.83,-118.07,12610
+90717,STANDARD,0,Lomita,,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.79,-118.31,19160
+90723,STANDARD,0,Paramount,,,CA,Los Angeles County,America/Los_Angeles,"310, 424, 562",,US,33.89,-118.16,49710
+90745,STANDARD,0,Carson,Long Beach,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.82,-118.26,53770
+90746,STANDARD,0,Carson,Long Beach,,CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.86,-118.25,24100
+90747,UNIQUE,0,Carson,Long Beach,"C S U Dom Hls, Ca State Univ Dom Hills",CA,Los Angeles County,America/Los_Angeles,"310, 424",,US,33.86,-118.25,49
+90749,PO BOX,0,Carson,Long Beach,,CA,Los Angeles County,America/Los_Angeles,310,,US,33.82,-118.26,736
+90755,STANDARD,0,Signal Hill,Long Beach,Signal Hl,CA,Los Angeles County,America/Los_Angeles,562,,US,33.8,-118.16,10340
+90801,PO BOX,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.77,-118.18,1999
+90802,STANDARD,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,"310, 424, 562",,US,33.75,-118.2,29520
+90803,STANDARD,0,Long Beach,,"Belmont Shore, Naples",CA,Los Angeles County,America/Los_Angeles,562,,US,33.75,-118.13,26450
+90804,STANDARD,0,Long Beach,,East Long Beach,CA,Los Angeles County,America/Los_Angeles,562,,US,33.78,-118.14,31260
+90805,STANDARD,0,Long Beach,Lakewood,North Long Beach,CA,Los Angeles County,America/Los_Angeles,"310, 424, 562",,US,33.86,-118.18,82700
+90806,STANDARD,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.81,-118.18,35600
+90807,STANDARD,0,Long Beach,Signal Hill,Bixby Knolls,CA,Los Angeles County,America/Los_Angeles,562,,US,33.83,-118.18,29240
+90808,STANDARD,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,"562, 657, 714",,US,33.82,-118.11,37310
+90809,PO BOX,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.76,-118.12,824
+90810,STANDARD,0,Long Beach,Carson,"Cabrillo, Dominguez",CA,Los Angeles County,America/Los_Angeles,"310, 424, 562",,US,33.81,-118.22,33640
+90813,STANDARD,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,"310, 424, 562",,US,33.78,-118.18,42660
+90814,STANDARD,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.77,-118.14,16000
+90815,STANDARD,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.79,-118.12,35510
+90822,STANDARD,0,Long Beach,,Long Beach Shared Firm,CA,Los Angeles County,America/Los_Angeles,562,,US,33.78,-118.12,0
+90831,STANDARD,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.77,-118.2,0
+90832,PO BOX,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.76,-118.19,191
+90833,STANDARD,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,424,,US,33.76,-118.2,0
+90834,STANDARD,1,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,"424, 562",,US,33.76,-118.2,0
+90835,STANDARD,1,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.76,-118.2,0
+90840,UNIQUE,0,Long Beach,,"C S U Long Beach, Ca State Univ Long Beach",CA,Los Angeles County,America/Los_Angeles,562,,US,33.78,-118.12,0
+90842,UNIQUE,0,Long Beach,,Department Of Gas & Water,CA,Los Angeles County,America/Los_Angeles,562,,US,33.81,-118.16,0
+90844,UNIQUE,0,Long Beach,,Press Telegram,CA,Los Angeles County,America/Los_Angeles,562,,US,33.77,-118.19,0
+90845,UNIQUE,1,Long Beach,,Buffums,CA,Los Angeles County,America/Los_Angeles,562,,US,33.77,-118.18,0
+90846,UNIQUE,0,Long Beach,,Boeing,CA,Los Angeles County,America/Los_Angeles,562,,US,33.82,-118.11,0
+90847,UNIQUE,0,Long Beach,,Aarp,CA,Los Angeles County,America/Los_Angeles,562,,US,33.83,-118.19,0
+90848,UNIQUE,0,Long Beach,,"Aarp, Aarp Pharmacy",CA,Los Angeles County,America/Los_Angeles,562,,US,33.83,-118.18,0
+90853,PO BOX,0,Long Beach,,,CA,Los Angeles County,America/Los_Angeles,562,,US,33.75,-118.13,480
+90888,UNIQUE,1,Long Beach,,"Far, Foundation Airborne Relief",CA,Los Angeles County,America/Los_Angeles,562,,US,33.77,-118.18,0
+90895,UNIQUE,0,Carson,Long Beach,Lakeshore Learning,CA,Los Angeles County,America/Los_Angeles,310,,US,33.83,-118.21,0
+90899,UNIQUE,1,Long Beach,,La International Service Ctr,CA,Los Angeles County,America/Los_Angeles,562,,US,33.77,-118.19,0
+91006,STANDARD,0,Arcadia,,,CA,Los Angeles County,America/Los_Angeles,"626, 747, 818",,US,34.13,-118.02,29940
+91007,STANDARD,0,Arcadia,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.12,-118.05,29030
+91008,STANDARD,0,Duarte,Bradbury,,CA,Los Angeles County,America/Los_Angeles,"626, 747, 818",,US,34.15,-117.97,950
+91009,PO BOX,0,Duarte,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.13,-117.96,493
+91010,STANDARD,0,Duarte,,,CA,Los Angeles County,America/Los_Angeles,"626, 747, 818",,US,34.14,-117.96,23190
+91016,STANDARD,0,Monrovia,,,CA,Los Angeles County,America/Los_Angeles,"626, 747, 818",,US,34.15,-117.99,36270
+91017,PO BOX,0,Monrovia,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.13,-117.98,1147
+91024,STANDARD,0,Sierra Madre,,,CA,Los Angeles County,America/Los_Angeles,"626, 747, 818",,US,34.17,-118.05,10150
+91025,PO BOX,0,Sierra Madre,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.16,-118.05,488
+91030,STANDARD,0,South Pasadena,S Pasadena,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626",,US,34.11,-118.15,23890
+91031,PO BOX,0,South Pasadena,S Pasadena,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.11,-118.15,914
+91066,PO BOX,0,Arcadia,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.02,793
+91077,PO BOX,0,Arcadia,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.12,-118.05,474
+91101,STANDARD,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.15,-118.14,15230
+91102,PO BOX,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.14,765
+91103,STANDARD,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,"626, 747, 818",,US,34.17,-118.17,22270
+91104,STANDARD,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.16,-118.12,29990
+91105,STANDARD,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626, 747, 818",,US,34.14,-118.16,11340
+91106,STANDARD,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.13,19190
+91107,STANDARD,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,"626, 747, 818",,US,34.16,-118.08,29720
+91108,STANDARD,0,San Marino,Pasadena,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.12,-118.11,12200
+91109,PO BOX,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.16,-118.16,1894
+91110,UNIQUE,0,Pasadena,,Shared Firm Zip Code,CA,Los Angeles County,America/Los_Angeles,626,,US,34.15,-118.15,0
+91114,PO BOX,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.16,-118.13,497
+91115,PO BOX,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.13,-118.15,334
+91116,PO BOX,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.13,391
+91117,PO BOX,0,Pasadena,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.09,466
+91118,PO BOX,0,San Marino,Pasadena,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.12,-118.09,367
+91121,UNIQUE,0,Pasadena,,Avon Products,CA,Los Angeles County,America/Los_Angeles,626,,US,34.15,-118.09,0
+91123,UNIQUE,0,Pasadena,,Ambassador College,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.15,0
+91124,UNIQUE,0,Pasadena,,Ralph M Parsons Co,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.15,0
+91125,UNIQUE,0,Pasadena,,Cal Tech,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.12,330
+91126,UNIQUE,0,Pasadena,,Cal Tech,CA,Los Angeles County,America/Los_Angeles,626,,US,34.13,-118.12,87
+91129,UNIQUE,0,Pasadena,,Ambassador I C Foundation,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.15,0
+91131,UNIQUE,1,Pasadena,,World Vision International,CA,Los Angeles County,America/Los_Angeles,626,,US,34.15,-118.15,0
+91182,UNIQUE,0,Pasadena,,Fuller Theological Seminary,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.14,0
+91184,UNIQUE,0,Pasadena,,Tournament Of Roses Assoc,CA,Los Angeles County,America/Los_Angeles,626,,US,34.13,-118.16,0
+91185,UNIQUE,0,Pasadena,,Mellon Regional Lockbox Netw,CA,Los Angeles County,America/Los_Angeles,626,,US,34.16,-117.98,0
+91188,UNIQUE,0,Pasadena,,Kaiser Foundation Health,CA,Los Angeles County,America/Los_Angeles,626,,US,34.14,-118.14,0
+91189,UNIQUE,0,Pasadena,,J P Morgan,CA,Los Angeles County,America/Los_Angeles,626,,US,34.12,-118.16,0
+91191,UNIQUE,1,Pasadena,World Vision Inc Brm,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.15,-118.15,0
+91199,UNIQUE,0,Pasadena,,City National Bank,CA,Los Angeles County,America/Los_Angeles,626,,US,34.17,-118.12,0
+91201,STANDARD,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 747, 818",,US,34.17,-118.29,18150
+91202,STANDARD,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,"747, 818",,US,34.16,-118.26,19300
+91203,STANDARD,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,"747, 818",,US,34.15,-118.26,12920
+91204,STANDARD,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 747, 818",,US,34.13,-118.26,13060
+91205,STANDARD,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 747, 818",,US,34.13,-118.24,28320
+91206,STANDARD,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626, 747, 818",,US,34.16,-118.2,27180
+91207,STANDARD,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,"747, 818",,US,34.17,-118.24,9110
+91208,STANDARD,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,"747, 818",,US,34.19,-118.24,15080
+91209,PO BOX,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.14,-118.25,1056
+91210,STANDARD,0,Glendale,,Glendale Galleria,CA,Los Angeles County,America/Los_Angeles,"747, 818",,US,34.14,-118.26,300
+91221,PO BOX,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.16,-118.28,567
+91222,PO BOX,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.16,-118.26,228
+91225,PO BOX,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.12,-118.25,850
+91226,PO BOX,0,Glendale,,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.16,-118.21,633
+91301,STANDARD,0,Agoura Hills,"Agoura, Calabasas, Calabasas Hills, Calabasas Hls, Cornell, Malibu Lake, Oak Park, Saratoga Hills, Saratoga Hls",,CA,Los Angeles County,America/Los_Angeles,"310, 424, 747, 818",,US,34.12,-118.76,23210
+91302,STANDARD,0,Calabasas,"Hidden Hills, Monte Nido, Woodland Hills, Woodland Hls",,CA,Los Angeles County,America/Los_Angeles,"310, 424, 747, 818",,US,34.11,-118.67,22150
+91340,STANDARD,0,San Fernando,,,CA,Los Angeles County,America/Los_Angeles,"747, 818",,US,34.28,-118.44,31450
+91341,PO BOX,0,San Fernando,,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.28,-118.44,717
+91350,STANDARD,0,Santa Clarita,"Agua Dulce, Saugus","Bouquet Canyon, Green Valley, Mint Canyon, Sleepy Valley",CA,Los Angeles County,America/Los_Angeles,661,,US,34.43,-118.51,40790
+91359,PO BOX,0,Westlake Village,"Thousand Oaks, Westlake Vlg",Valencia,CA,Los Angeles County,America/Los_Angeles,"805, 820",,US,34.19,-118.82,1314
+91361,STANDARD,0,Westlake Village,"Hidden Valley, Lake Sherwood, Thousand Oaks, Westlake Vlg",,CA,Ventura County,America/Los_Angeles,"310, 424, 747, 805, 818, 820",,US,34.14,-118.89,18720
+91372,PO BOX,0,Calabasas,"Woodland Hills, Woodland Hls",,CA,Los Angeles County,America/Los_Angeles,818,,US,34.15,-118.64,365
+91376,PO BOX,0,Agoura Hills,Agoura,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.14,-118.75,687
+91380,PO BOX,0,Santa Clarita,Valencia,,CA,Los Angeles County,America/Los_Angeles,661,,US,34.49,-118.39,1561
+91382,STANDARD,0,Santa Clarita,,,CA,Los Angeles County,America/Los_Angeles,661,,US,34.41,-118.51,0
+91383,STANDARD,0,Santa Clarita,,,CA,Los Angeles County,America/Los_Angeles,661,,US,34.36,-118.45,0
+91390,STANDARD,0,Santa Clarita,"Agua Dulce, Canyon Cntry, Canyon Country, Green Valley","Mint Canyon, Saugus, Sleepy Valley",CA,Los Angeles County,America/Los_Angeles,661,,US,34.58,-118.49,18130
+91501,STANDARD,0,Burbank,,Starlight Hills,CA,Los Angeles County,America/Los_Angeles,"747, 818",,US,34.19,-118.29,17530
+91502,STANDARD,0,Burbank,,,CA,Los Angeles County,America/Los_Angeles,"747, 818",,US,34.17,-118.31,8860
+91503,PO BOX,0,Burbank,,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.18,-118.3,457
+91504,STANDARD,0,Burbank,,,CA,Los Angeles County,America/Los_Angeles,"747, 818",,US,34.2,-118.33,23190
+91505,STANDARD,0,Burbank,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 747, 818",,US,34.17,-118.34,28720
+91506,STANDARD,0,Burbank,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 747, 818",,US,34.17,-118.32,17390
+91507,PO BOX,0,Burbank,,Magnolia Park,CA,Los Angeles County,America/Los_Angeles,818,,US,34.16,-118.34,385
+91508,PO BOX,0,Burbank,,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.19,-118.32,228
+91510,PO BOX,0,Burbank,,,CA,Los Angeles County,America/Los_Angeles,818,,US,34.17,-118.34,1185
+91521,UNIQUE,0,Burbank,,Disney Productions,CA,Los Angeles County,America/Los_Angeles,213,,US,34.15,-118.32,0
+91522,UNIQUE,0,Burbank,,Burbank Studios,CA,Los Angeles County,America/Los_Angeles,213,,US,34.14,-118.33,0
+91523,UNIQUE,0,Burbank,,Nbc Tv Network,CA,Los Angeles County,America/Los_Angeles,213,,US,34.16,-118.33,0
+91526,UNIQUE,0,Burbank,,Walt Disney Co,CA,Los Angeles County,America/Los_Angeles,818,,US,34.19,-118.32,0
+91702,STANDARD,0,Azusa,Irwindale,,CA,Los Angeles County,America/Los_Angeles,"626, 661, 747, 818, 840, 909",,US,34.28,-117.8,52980
+91706,STANDARD,0,Baldwin Park,Irwindale,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.09,-117.96,69490
+91711,STANDARD,0,Claremont,,,CA,Los Angeles County,America/Los_Angeles,"840, 909",,US,34.12,-117.71,30500
+91722,STANDARD,0,Covina,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.09,-117.9,33860
+91723,STANDARD,0,Covina,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.08,-117.88,17320
+91724,STANDARD,0,Covina,,Charter Oak,CA,Los Angeles County,America/Los_Angeles,"626, 840, 909",,US,34.07,-117.84,24300
+91731,STANDARD,0,El Monte,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.08,-118.03,24010
+91732,STANDARD,0,El Monte,"City Industry, City Of Industry",,CA,Los Angeles County,America/Los_Angeles,626,,US,34.07,-118.01,52340
+91733,STANDARD,0,South El Monte,"El Monte, S El Monte",,CA,Los Angeles County,America/Los_Angeles,"213, 323, 562, 626",,US,34.04,-118.04,37260
+91734,PO BOX,0,El Monte,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.07,-118.03,1122
+91735,UNIQUE,0,El Monte,,Wells Fargo Bank,CA,Los Angeles County,America/Los_Angeles,626,,US,34.07,-118.02,29
+91740,STANDARD,0,Glendora,,,CA,Los Angeles County,America/Los_Angeles,"626, 840, 909",,US,34.11,-117.85,23980
+91741,STANDARD,0,Glendora,,,CA,Los Angeles County,America/Los_Angeles,"626, 840, 909",,US,34.14,-117.85,24830
+91744,STANDARD,0,La Puente,"City Industry, City Of Industry",,CA,Los Angeles County,America/Los_Angeles,626,,US,34.02,-117.93,76220
+91746,STANDARD,0,La Puente,"Bassett, City Industry, City Of Industry",,CA,Los Angeles County,America/Los_Angeles,"562, 626",,US,34.04,-117.98,27900
+91747,PO BOX,0,La Puente,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.02,-117.94,1454
+91749,PO BOX,0,La Puente,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.03,-117.95,0
+91750,STANDARD,0,La Verne,,,CA,Los Angeles County,America/Los_Angeles,"626, 840, 909",,US,34.15,-117.76,30940
+91754,STANDARD,0,Monterey Park,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626",,US,34.05,-118.14,32030
+91755,STANDARD,0,Monterey Park,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626",,US,34.05,-118.11,26650
+91756,UNIQUE,0,Monterey Park,,"Mont Park, Mont Pk, Monterey Pk, Southern California Gas Co",CA,Los Angeles County,America/Los_Angeles,626,,US,34.04,-118.13,0
+91765,STANDARD,0,Diamond Bar,Pomona,,CA,Los Angeles County,America/Los_Angeles,"562, 657, 714, 840, 909",,US,33.99,-117.81,43770
+91766,STANDARD,0,Pomona,"Phillips Ranch, Phillips Rnch",,CA,Los Angeles County,America/Los_Angeles,"840, 909",,US,34.03,-117.75,63750
+91767,STANDARD,0,Pomona,,,CA,Los Angeles County,America/Los_Angeles,"840, 909",,US,34.08,-117.73,44180
+91768,STANDARD,0,Pomona,,,CA,Los Angeles County,America/Los_Angeles,"626, 840, 909",,US,34.06,-117.79,27730
+91769,PO BOX,0,Pomona,,,CA,Los Angeles County,America/Los_Angeles,909,,US,34.06,-117.75,1925
+91770,STANDARD,0,Rosemead,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626",,US,34.06,-118.08,53550
+91771,UNIQUE,0,Rosemead,,So Cal Edison Co,CA,Los Angeles County,America/Los_Angeles,626,,US,34.06,-118.08,0
+91772,UNIQUE,0,Rosemead,,So Cal Edison Co,CA,Los Angeles County,America/Los_Angeles,626,,US,34.06,-118.08,0
+91773,STANDARD,0,San Dimas,,,CA,Los Angeles County,America/Los_Angeles,"626, 840, 909",,US,34.1,-117.81,30960
+91775,STANDARD,0,San Gabriel,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.11,-118.08,21870
+91776,STANDARD,0,San Gabriel,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.08,-118.09,34710
+91778,PO BOX,0,San Gabriel,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.1,-118.1,953
+91780,STANDARD,0,Temple City,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.1,-118.05,33250
+91788,PO BOX,0,Walnut,,,CA,Los Angeles County,America/Los_Angeles,909,,US,34.01,-117.86,808
+91789,STANDARD,0,Walnut,"City Industry, City Of Industry, Diamond Bar",,CA,Los Angeles County,America/Los_Angeles,"626, 840, 909",,US,34.01,-117.85,41290
+91790,STANDARD,0,West Covina,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.06,-117.94,41390
+91791,STANDARD,0,West Covina,,,CA,Los Angeles County,America/Los_Angeles,"626, 840, 909",,US,34.06,-117.89,30720
+91792,STANDARD,0,West Covina,,,CA,Los Angeles County,America/Los_Angeles,"626, 840, 909",,US,34.02,-117.9,26310
+91793,PO BOX,0,West Covina,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.06,-117.92,1013
+91795,UNIQUE,1,Walnut,,Federal Home Loan Bank,CA,Los Angeles County,America/Los_Angeles,909,,US,34.02,-117.85,0
+91797,UNIQUE,1,Pomona,Bureau Of The Census,,CA,Los Angeles County,America/Los_Angeles,909,,US,34.08,-117.96,0
+91799,UNIQUE,1,Pomona,,Focus On The Family,CA,Los Angeles County,America/Los_Angeles,909,,US,34.05,-117.75,0
+91801,STANDARD,0,Alhambra,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626",,US,34.09,-118.13,45480
+91802,PO BOX,0,Alhambra,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.09,-118.12,1640
+91803,STANDARD,0,Alhambra,,,CA,Los Angeles County,America/Los_Angeles,"213, 323, 626",,US,34.07,-118.14,26660
+91804,STANDARD,0,Alhambra,,,CA,Los Angeles County,America/Los_Angeles,"323, 626, 818",,US,34.09,-118.12,0
+91841,UNIQUE,1,Alhambra,,Carter Hawley Hale,CA,Los Angeles County,America/Los_Angeles,626,,US,34.09,-118.12,0
+91896,PO BOX,0,Alhambra,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.09,-118.12,0
+91899,PO BOX,0,Alhambra,,,CA,Los Angeles County,America/Los_Angeles,626,,US,34.08,-118.13,0
+93534,STANDARD,0,Lancaster,,"Del Sur, Fairmont, Hi Vista, Lane, Wilsona Gardens",CA,Los Angeles County,America/Los_Angeles,661,,US,34.72,-118.15,33650
+93535,STANDARD,0,Lancaster,"Hi Vista, Lake La, Lake Los Angeles","Roosevelt Corner, Wilsona Gardens",CA,Los Angeles County,America/Los_Angeles,"442, 661, 760",,US,34.69,-117.9,69370
+93536,STANDARD,0,Lancaster,"Del Sur, Quartz Hill","Fairmont, Metler Valley, Neenach",CA,Los Angeles County,America/Los_Angeles,661,,US,34.72,-118.48,63390
+93539,PO BOX,0,Lancaster,,,CA,Los Angeles County,America/Los_Angeles,661,,US,34.68,-118.12,3046
+93550,STANDARD,0,Palmdale,"Lake La, Lake Los Angeles",,CA,Los Angeles County,America/Los_Angeles,"661, 747, 818",,US,34.52,-118.08,70660
+93551,STANDARD,0,Palmdale,"City Ranch, Leona Valley, Quartz Hill",,CA,Los Angeles County,America/Los_Angeles,661,,US,34.61,-118.27,50600
+93552,STANDARD,0,Palmdale,,,CA,Los Angeles County,America/Los_Angeles,661,,US,34.57,-118.02,38890
+93584,PO BOX,0,Lancaster,,,CA,Los Angeles County,America/Los_Angeles,661,,US,34.69,-118.13,624
+93586,PO BOX,0,Lancaster,Quartz Hill,,CA,Los Angeles County,America/Los_Angeles,661,,US,34.64,-118.21,191
+93590,PO BOX,0,Palmdale,,,CA,Los Angeles County,America/Los_Angeles,661,,US,34.57,-118.08,1866
+93591,STANDARD,0,Palmdale,"Lake La, Lake Los Angeles",,CA,Los Angeles County,America/Los_Angeles,"442, 661, 760",,US,34.61,-117.81,6120
+93599,UNIQUE,0,Palmdale,,Lockheed Advanced Dev Co,CA,Los Angeles County,America/Los_Angeles,661,,US,34.57,-118.11,0
