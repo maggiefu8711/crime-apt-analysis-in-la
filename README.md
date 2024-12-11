@@ -4,9 +4,6 @@
 ## Impact of Crime and Property Quality on Rental Prices and Tenant Satisfaction in Los Angeles
 
 ## Team Members: Fan-Chen Fu
- * USC ID: 5980024871
- * Email: fanchenf@usc.edu
- * Github username: maggiefu8711
 
 ## Instructions to Create a Conda Environment
 
